@@ -6,7 +6,7 @@
 
 **首次使用需要安装一次配套采集器，之后登录自动运行。仅订阅壁纸不会自动安装程序。**
 
-1. 在 Wallpaper Engine 中订阅并应用本壁纸（工坊发布链接将在完成后补充）。
+1. [在 Steam 创意工坊订阅并应用本壁纸](https://steamcommunity.com/sharedfiles/filedetails/?id=3820739091)。
 2. [下载安装器 Companion-Setup.exe](https://github.com/477742951-byte/jarvis-hardware-wallpaper/releases/latest/download/Companion-Setup.exe)。已包含 Python、依赖和传感器组件，不需要自行安装 Python。
 3. 运行安装器，选择安装目录，保留“登录后自动采集”和“缺少 PawnIO 时安装驱动”选项，按 Windows 提示授权。
 4. 等待几秒，壁纸会自动显示你自己电脑的数据；以后登录后自动连接。
